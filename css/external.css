@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(55, 5, 65);
+    color: white;
+    padding: 100 0;
+    padding-top: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+
+#button-next-page {
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(245, 243, 115);
+    filter: drop-shadow(1px 1px 1px black);
+}
+
+#a-button {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(55, 5, 65)
+}
+
+.winnie {
+    height: 50px;
+    width: 50px;
+    filter: drop-shadow(1px 1px 1px black);
+    text-align: center;
+}
